@@ -10,9 +10,8 @@ There are two folders. One is related to reporting and other related to inventor
 # Execution
 The employees used the template files. They pasted file paths of assocaited excel files at the specified cell and ran the code using the button provided to give foundational sale report or perform inventory manipulation as per need.
 
-# How to run
+# How to Run?
 One should download all the excel files. Note that template file should be downloaded in Macro enabled excel format. Copy file paths of the associated excel files in the template files and simply run.
-
-If one want to only view the Macro code, it is provided in the html file.
+If one want to only view the macro code, it is provided in the html file.
 # Want to know more?
 Feel free to reach out: tirthpravin.gala@duke.edu
