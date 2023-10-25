@@ -13,5 +13,5 @@ The employees used the template files by putting file paths of dummy files at th
 # How to run
 One should download all the excel files. Note that template file should be downloaded in Macro enabled excel format. Copy file paths of the associated dummy files in the template files and simply run.
 
-Want to know more?
+# Want to know more?
 Feel free to reach out: tirthpravin.gala@duke.edu
