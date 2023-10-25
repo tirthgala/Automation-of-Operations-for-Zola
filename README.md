@@ -12,6 +12,6 @@ The employees used the template files. They pasted file paths of assocaited exce
 
 # How to run
 One should download all the excel files. Note that template file should be downloaded in Macro enabled excel format. Copy file paths of the associated excel files in the template files and simply run.
-
+If you only want to view the Macro code, it is provided in the html file.
 # Want to know more?
 Feel free to reach out: tirthpravin.gala@duke.edu
