@@ -7,7 +7,7 @@ While working in E-commerce department of a growing apparel brand in India calle
 # Content
 There are two folders. One is related to reporting and other related to inventory management. In each folder, there is a Macro enabled excel file, VBA macro code seperately provided on html file, and associated  excel files. 
 
-# Execution
+# How was it Used?
 The employees used the template files. They pasted file paths of assocaited excel files at the specified cell and ran the code using the button provided to give foundational sale report or perform inventory manipulation as per need.
 
 # How to Run?
