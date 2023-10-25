@@ -1,5 +1,5 @@
 # Overview
-While working in E-commerce department of a growing apparel brand in India called Zola, I had worked on automating reporting and inventory management systems. This was done using VBA Macros. The aim was to:
+While working in domain of inventory management and data reporting for Zola, I had worked on automating reporting and inventory management systems. This was done using VBA Macros. The aim was to:
 1. Increase backend operations efficiency.
 2. Save time for fellow employees to focus on analysing the data.
 3. Making reporting system seamless.
